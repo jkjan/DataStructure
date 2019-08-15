@@ -1,0 +1,9 @@
+CREATE
+LOAD list.txt
+PRINT
+INSERT 김동규 M 서울 컴퓨터과학과 3.10 181 75
+INSERT 조원석 M 인천 전기공학과 3.33 175 69
+DELETE 오영
+SEARCH 김동규
+SEARCH 오영
+PRINT
